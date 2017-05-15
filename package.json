@@ -2,7 +2,7 @@
   "name": "zensa-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://fractlstaging.com/clients/zensa/micro-tattoos-lp-react-jsx/build",
+  "homepage": "http://fractlstaging.com/clients/zensa/react-builds/tattoo-buyers-guide/build",
   "dependencies": {
     "react": "^15.5.4",
     "react-document-meta": "^2.1.2",
