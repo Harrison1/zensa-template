@@ -8,16 +8,16 @@ export default class Blog extends React.Component {
     render() {
         const meta = {
             title: 'Example Title',
-            description: 'Example Descriptoin',
+            description: 'Example Description',
             meta: {
                 charset: 'utf-8',
                 name: {
                     'twitter:title': 'Example Title',
-                    'twitter:description': 'Example Descriptoin'
+                    'twitter:description': 'Example Description'
                 },
                 property: {
                     'og:title': 'Example Title',
-                    'og:description': 'Example Descriptoin',
+                    'og:description': 'Example Description',
                     'og:type': 'article'
 
                 }
