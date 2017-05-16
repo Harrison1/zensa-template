@@ -66,7 +66,7 @@ export default class Blog extends React.Component {
                                 {/* section title */}
                                 <h2 className="blog-h2">HOW MUCH WILL IT COST?</h2>
 
-                                <p>It’s worth asking how much time an artist will need to complete a piece. This will help give you a rough estimate of your final bill. It isn’t uncommon for experienced artists to charge anywhere between $100 to $200 an hour for their services. This means a tattoo that requires four hours will cost between $400 and $800, not including tip. The total bill could end up between $460 and $960 (before tax) when gratuity is added.</p>
+                                <p>It's worth asking how much time an artist will need to complete a piece. This will help give you a rough estimate of your final bill. It isn’t uncommon for experienced artists to charge anywhere between $100 to $200 an hour for their services. This means a tattoo that requires four hours will cost between $400 and $800, not including tip. The total bill could end up between $460 and $960 (before tax) when gratuity is added.</p>
                                 
                                 <p>However, some tattoo artists are willing to negotiate the price. It’s important to ask and agree on a price first to avoid sticker shock.</p>
 
@@ -166,7 +166,7 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BRl43UAgXKU/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6">
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                         <p><i>"Research, research, and then research some more! Decide on what you want and look up different tattoos for that; get an idea of the style you like. Look at actual tattoos; get an idea of what’s tattooable. And then research local artists who fit the style you’re looking for." <a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="https://www.instagram.com/meghanschader/?hl=en" target="_blank">@meghanschader</a></i></p>
                                     </div>
                                 </div>
@@ -181,7 +181,7 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BOHzYkZh9m6/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6">
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                         <p><i>"Ask [the artist] any concerns you have about getting tattooed. Whether it’s pain, pricing, or if they do a particular style. A good artist will be upfront with you and ensure you have the best experience." <a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="https://www.instagram.com/e_victoria/?hl=en" target="_blank">@e_victoria</a></i></p>
                                     </div>
                                 </div>
@@ -211,7 +211,7 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BN2wbrNhRKT/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6">
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                         <p><i>"Look for someone who does the type of tattoo style that you like, and request a consultation with them, so you can sit and discuss your future tattoo ideas." <a href="https://www.instagram.com/e_victoria/?hl=en" target="_blank">@e_victoria</a></i></p>
                                     </div>
                                 </div>
