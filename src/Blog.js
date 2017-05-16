@@ -56,7 +56,7 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BOU-y16jgYh/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6">
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                         <p><i>"A lot of people who come in to get friendship tattoos will generally get matching ones. I've tattooed everything from pineapples to crowns. It really just comes down to the image having meaning to the people who are getting it tattooed."<a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="https://www.instagram.com/bike_kvlt/" target="_blank">@bike_kvlt</a></i></p>
                                     </div>
                                 </div>
@@ -105,7 +105,7 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BQrEOU2Ai_P/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6">
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                         <p><i>"Figure out an image that means something to both of you. It could be a hobby, something you share in common, an inside joke, a place you visited together; something that when you look at it, you think of only that person."<a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="https://www.instagram.com/meghanschader/" target="_blank">@meghanschader</a></i></p>
                                     </div>
                                 </div>
@@ -213,7 +213,7 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BRE_y5JjlKB/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6">
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                         <p><i>"Be unique … get something that reminds you of each other; even if it is something silly, you will always remember that time with your friend or spouse." @e_victoria</i></p>
                                     </div>
                                 </div>
