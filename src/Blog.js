@@ -282,7 +282,7 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BP8FRZAj1lJ/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6">
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                         <p><i>“Pick a tattoo that will age well and is not a fad or trend. Placement [is also important], [choose] an area that doesn’t block potential for future tattoos.” <a style={{textDecoration: 'none'}} rel="noopener noreferrer" href="https://www.instagram.com/meghanschader/" target="_blank">@meghanschader</a></i></p>
                                     </div>
                                 </div>
