@@ -33,7 +33,7 @@ export default class Blog extends React.Component {
                         <div className="row center-xs">
                             <div className="col-xs-12 col-md-10">
                                 <h1 className="blog-h1">Tattoos For Two</h1>
-                                <h2 className="blog-h2">Tattoo Ideas For Siblings, Best Friends, and Couples</h2>
+                                <p style={{textAlign: "center"}}>Tattoo Ideas For Siblings, Best Friends, and Couples</p>
                             </div>
                         </div>
                     </div>
@@ -49,7 +49,7 @@ export default class Blog extends React.Component {
                             <div className="col-xs-12 col-md-10">
 
                                 {/* main content */}
-                                <p>From siblings to significant others, some relationships are built to last forever. Here's the ultimate guide to tattoos you can share with someone you love.</p>
+                                <p>When it comes to getting a new tattoo, who really wants to go at it alone? A good friend may come with you to the tattoo shop or hold your hand for the hard parts, but it takes a special bond to get a pair of matching – or at least similar – tattoos.</p>
 
                                 {/* column conent */}
                                 <div className="row">
@@ -61,12 +61,8 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                <p><i>"A lot of people who come in to get friendship tattoos will generally get matching ones. I've tattooed everything from pineapples to crowns. It really just comes down to the image having meaning to the people who are getting it tattooed."<a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="https://www.instagram.com/bike_kvlt/" target="_blank">@bike_kvlt</a></i></p>
-
                                 {/* image example */}
                                 <img className="blog-image" src={`${IMG_BASE_URL}/assets/img/tattoos-for-two-asset.png`} />
-
-                                <p>When it comes to getting a new tattoo, who really wants to go at it alone? A good friend may come with you to the tattoo shop or hold your hand for the hard parts, but it takes a special bond to get a pair of matching – or at least similar – tattoos.</p>
                                 
                                 <p><b>We've compiled a list of our top 10 ideas for companion pieces</b>. From tattoos for siblings to spouses and even close friends, here are a few suggestions on how to seal the deal together.</p>
 
@@ -118,7 +114,7 @@ export default class Blog extends React.Component {
                                         <InstagramEmbed url='https://www.instagram.com/p/BRgRF4rl0F3/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BR5EzS0Bbk5/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BTe3n5kjBvz/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -146,7 +142,7 @@ export default class Blog extends React.Component {
                                         <InstagramEmbed url='https://www.instagram.com/p/BRIytk1FIoO/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BR3Q6ubgAoj/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BT7ZgHigsVm/' hideCaption={true} />
                                     </div>
                                 </div>
 
