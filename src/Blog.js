@@ -63,7 +63,7 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BRlGCehhrRH/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                         <p><i>"Figure out what image or images you'd like to have tattooed on you before you come to the shop. Bring in some reference ideas, so the tattoo artists can point you in the direction of what will and won't work and who can best complete the style of tattooing you are looking for." <a style={{textDecoration: 'none'}} rel="noopener noreferrer" href="https://www.instagram.com/e_victoria/" target="_blank">@e_victoria</a></i></p>
@@ -81,7 +81,7 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BRwzAX4BJX8/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
@@ -96,10 +96,10 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BP2pJLqFk0I/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <p>POST HAS BEEN DELETED</p>
+                                        <InstagramEmbed url='https://www.instagram.com/p/BMFTpk3AOoh/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -111,10 +111,10 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BR2wd81BJeC/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BHXlR9ShTZi/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -128,10 +128,10 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BR8szQOh1BD/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BR5BCrEFeod/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -145,10 +145,10 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BP5WajZjWVO/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BR2N8pgDN7x/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -160,10 +160,10 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BPVyzJeh7Sa/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BKgfVlqg7eg/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -180,7 +180,7 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BNklcSnBDzR/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
                                         <p><i>"When choosing your first tattoo, pick something timeless, meaningful, and that is going to age well." <a style={{textDecoration: 'none'}} rel="noopener noreferrer" href="https://www.instagram.com/takeshikamioka/" target="_blank">@takeshikamioka</a></i></p>
@@ -193,10 +193,10 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BRbiURxAuPx/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BPlooKagf-u/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -208,10 +208,10 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                         <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                         <InstagramEmbed url='https://www.instagram.com/p/BPjXDMuATSy/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BRdhAMdluBY/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -223,10 +223,10 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BRv79W-DbhH/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BRSBqcgAG91/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -238,10 +238,10 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BREYDyqgb42/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BLgHKgaBr9s/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -253,10 +253,10 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                         <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                         <InstagramEmbed url='https://www.instagram.com/p/BPnn0nQhauf/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BPxzm1iAXil/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -268,10 +268,10 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                         <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                         <InstagramEmbed url='https://www.instagram.com/p/BR28rEjAHfG/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BRdsKYOFIE4/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -280,7 +280,7 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BP8FRZAj1lJ/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
                                         <p><i>“Pick a tattoo that will age well and is not a fad or trend. Placement [is also important], [choose] an area that doesn’t block potential for future tattoos.” <a style={{textDecoration: 'none'}} rel="noopener noreferrer" href="https://www.instagram.com/meghanschader/" target="_blank">@meghanschader</a></i></p>
