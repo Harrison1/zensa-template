@@ -33,7 +33,7 @@ export default class Blog extends React.Component {
                         <div className="row center-xs">
                             <div className="col-xs-12 col-md-10">
                                 <h1 className="blog-h1">Tattoos For Two</h1>
-                                <p style={{textAlign: "center"}}>Tattoo Ideas For Siblings, Best Friends, and Couples</p>
+                                <p style={{textAlign: "center"}}>When it comes to getting a new tattoo, who really wants to go at it alone? A good friend may come with you to the tattoo shop or hold your hand for the hard parts, but it takes a special bond to get a pair of matching – or at least similar – tattoos.</p>
                             </div>
                         </div>
                     </div>
@@ -49,9 +49,7 @@ export default class Blog extends React.Component {
                             <div className="col-xs-12 col-md-10">
 
                                 {/* main content */}
-                                <p>When it comes to getting a new tattoo, who really wants to go at it alone? A good friend may come with you to the tattoo shop or hold your hand for the hard parts, but it takes a special bond to get a pair of matching – or at least similar – tattoos.</p>
 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BOU-y16jgYh/' hideCaption={true} />
@@ -61,15 +59,12 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                {/* image example */}
                                 <img className="blog-image" src={`${IMG_BASE_URL}/assets/img/tattoos-for-two-asset.png`} />
                                 
                                 <p><b>We've compiled a list of our top 10 ideas for companion pieces</b>. From tattoos for siblings to spouses and even close friends, here are a few suggestions on how to seal the deal together.</p>
 
-                                {/* section title */}
                                 <h2 className="blog-h2">LOCK AND KEY</h2>
 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BR2oN29hihp/' hideCaption={true} />
@@ -81,10 +76,8 @@ export default class Blog extends React.Component {
 
                                 <p>Unlike the lock and key, anyone can appreciate the meaning behind a connected lifeline. From best friends to sisters with a special bond, the lifeline suggests a shared heartbeat and the idea that one can't exist without the other. This design can work in large places like the wrist, or in small, secret spots like the finger or foot.</p>
 
-                                {/* section title */}
                                 <h2 className="blog-h2">WEDDING BANDS</h2>
 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BRwrrKvjjrx/' hideCaption={true} />
@@ -96,7 +89,6 @@ export default class Blog extends React.Component {
 
                                 <p>Wedding band tattoos aren't just hip and popular; they can also be an incredibly sweet idea. In place of a traditional wedding band, or even in addition to one, this tattoo between lovers or spouses shows an infinite connection that goes beyond the material representation of wedding rings. It also allows you to showcase your love in instances where you might not want to wear your rings, like while traveling or being outdoors. You're certainly less likely to lose these.</p>
 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BQrEOU2Ai_P/' hideCaption={true} />
@@ -108,7 +100,6 @@ export default class Blog extends React.Component {
 
                                 <h2 className="blog-h2">SPLIT DESIGN</h2>
 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BRgRF4rl0F3/' hideCaption={true} />
@@ -122,7 +113,6 @@ export default class Blog extends React.Component {
 
                                 <h2 className="blog-h2">YIN YANG</h2>
 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BSI4NyMDnpF/' hideCaption={true} />
@@ -136,7 +126,6 @@ export default class Blog extends React.Component {
 
                                 <h2 className="blog-h2">PUZZLE PIECES</h2>
 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BRIytk1FIoO/' hideCaption={true} />
@@ -150,7 +139,6 @@ export default class Blog extends React.Component {
 
                                 <h2 className="blog-h2">A SIGNIFICANT QUOTE</h2>
 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BRytW4bA5VW/' hideCaption={true} />
@@ -164,7 +152,6 @@ export default class Blog extends React.Component {
 
                                 <h2 className="blog-h2">NERDY TATTOOS</h2>
 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BO4dX7Ogns6/' hideCaption={true} />
@@ -178,7 +165,6 @@ export default class Blog extends React.Component {
 
                                 <h2 className="blog-h2">COORDINATES</h2>
 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BBtWb6_rB3A/' hideCaption={true} />
@@ -192,7 +178,6 @@ export default class Blog extends React.Component {
                                 
                                 <h2 className="blog-h2">PINKY PROMISE</h2>
 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BSEIILpApAJ/' hideCaption={true} />
@@ -204,7 +189,6 @@ export default class Blog extends React.Component {
 
                                 <p>A particularly cute design for sisters or best friends, the pinky promise represents every embarrassing moment, secrets you've shared, and just how deep your bond goes. Even if you aren't technically related, the relationship between best friends, sisters, or otherwise is like an unbreakable vow, and this tattoo design uses simple lines and a clear message to show off your love for each other.</p>
                                 
-                                {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BRE_y5JjlKB/' hideCaption={true} />
@@ -222,7 +206,6 @@ export default class Blog extends React.Component {
 
                                 {/* end: main content */}
 
-                            {/*DO NOT EDIT BELOW THIS LINE*/}
                         </div>
                     </div>
                 </div>
