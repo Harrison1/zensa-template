@@ -57,7 +57,7 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BMULuX2D-xj/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6">
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                         <p><i>"Old English and script are some of the more common styles of lettering people choose. The beauty of script is that it is so versatile. There are innumerable ways to draw script, from a very simple single line to very fancy with filigree around it, so a client will most likely end up with a lettering style that is unique to them." <a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="https://www.instagram.com/bike_kvlt/" target="_blank">@bike_kvlt</a></i></p>                                
                                     </div>
                                 </div>
@@ -85,7 +85,7 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
                               
-                                <p>You’ve probably seen the Helvetica font before, and not even realized it. With a history that goes as far back as the 1800s, Helvetica is an <a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="https://www.webdesignerdepot.com/2010/01/the-simplicity-of-helvetica/" target="_blank">award-winning font with modern</a>, sleek lines and refined vertical and horizontal strokes. Regardless of the font size, Helvetica is a great choice for tattoo lettering.</p>
+                                <p>You've probably seen the Helvetica font before, and not even realized it. With a history that goes as far back as the 1800s, Helvetica is an <a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="https://www.webdesignerdepot.com/2010/01/the-simplicity-of-helvetica/" target="_blank">award-winning font with modern</a>, sleek lines and refined vertical and horizontal strokes. Regardless of the font size, Helvetica is a great choice for tattoo lettering.</p>
 
                                 {/* section title */}
                                 <h2 className="blog-h2">CURSIVE</h2>
@@ -249,7 +249,7 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BSL6hKljoHE/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6">
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                         <p><i>"There are literally thousands of fonts to choose from. Figure out the style of writing you want and narrow it down from there." <a href="https://www.instagram.com/e_victoria/" target="_blank">@e_victoria</a></i></p>                     
                                     </div>
                                 </div>
