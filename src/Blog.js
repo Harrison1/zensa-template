@@ -53,9 +53,9 @@ export default class Blog extends React.Component {
                                 {/* main content */}
                                 <p>Great ink starts with a great idea. Whether it’s your first piece or your fifteenth, this ultimate guide to tattoo inspiration is your must-read before you get in the chair.</p>
 
-                                <p>So you’re ready to get a tattoo. Maybe it’s your first, or you’ve already gotten a few and are ready for another. You may have a subject matter in mind, but aren’t exactly sure what kind of guidance to give your tattoo artist to make sure it’s executed to perfection.</p>
+                                <p>So you're ready to get a tattoo. Maybe it’s your first, or you’ve already gotten a few and are ready for another. You may have a subject matter in mind, but aren’t exactly sure what kind of guidance to give your tattoo artist to make sure it’s executed to perfection.</p>
                                 
-                                <p>We’ve created the ultimate tattoo guide on the top 10 most popular styles to help inspire your next piece of body art, as well as some ideas on the perfect placement. We’ll help you break down the difference between traditional and neo-traditional, and even highlight some of the new trends in popular design (like watercolor and dotwork). <b>This guide is a must-read before you head into the tattoo shop</b>.</p>
+                                <p>We've created the ultimate tattoo guide on the top 10 most popular styles to help inspire your next piece of body art, as well as some ideas on the perfect placement. We’ll help you break down the difference between traditional and neo-traditional, and even highlight some of the new trends in popular design (like watercolor and dotwork). <b>This guide is a must-read before you head into the tattoo shop</b>.</p>
 
                                 {/* section title */}
                                 <h2 className="blog-h2">TATTOO STYLES YOU’LL LOVE</h2>
@@ -65,8 +65,8 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6">
-                                        <p><i>“Figure out what image or images you’d like to have tattooed on you before you come to the shop. Bring in some reference ideas, so the tattoo artists can point you in the direction of what will and won’t work and who can best complete the style of tattooing you are looking for.” <a style={{textDecoration: 'none'}} rel="noopener noreferrer" href="https://www.instagram.com/e_victoria/" target="_blank">@e_victoria</a></i></p>
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
+                                        <p><i>"Figure out what image or images you'd like to have tattooed on you before you come to the shop. Bring in some reference ideas, so the tattoo artists can point you in the direction of what will and won't work and who can best complete the style of tattooing you are looking for." <a style={{textDecoration: 'none'}} rel="noopener noreferrer" href="https://www.instagram.com/e_victoria/" target="_blank">@e_victoria</a></i></p>
                                     </div>
                                 </div>
                                 
