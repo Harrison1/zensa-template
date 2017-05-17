@@ -32,15 +32,16 @@ export default class Blog extends React.Component {
                     {/* headline */}
                     <div className="container">
                         <div className="row center-xs">
-                        <div className="col-xs-12 col-md-10">
-                            <h1 className="blog-h1">Everything You’ve Been Wanting to Ask About Semi-Permanent Eyebrows </h1>
-                        </div>
+                            <div className="col-xs-12 col-md-10">
+                                <h1 className="blog-h1">Microblading Miracles</h1>
+                                <p style={{textAlign: 'center' }}>A guide to the semi-permanent eyebrow</p>
+                            </div>
                         </div>
                     </div>
                     {/* end: headline */}
 
                     {/* hero image */}
-                    <div className="blog-hero-image" style={{backgroundImage: `url(${IMG_BASE_URL}/assets/img/header.png)`, backgroundPosition: '50% 50%'}} />
+                    <div className="blog-hero-image" style={{backgroundImage: `url(${IMG_BASE_URL}/assets/img/header.png)`}} />
                     {/* end: hero image */}
 
                     {/* main content container */}
@@ -53,7 +54,7 @@ export default class Blog extends React.Component {
 
                             <div className="row">
                                 <div className="col-xs-12 col-md-6">
-                                    <InstagramEmbed url='https://www.instagram.com/p/BTJvTDfBkRX/' hideCaption={true} />
+                                    <InstagramEmbed url='https://www.instagram.com/p/BUIwIbaB9lw/' hideCaption={true} />
                                 </div>
                                 <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                     <p>"It's great for people with thin or non-existent eyebrows due to over-plucking, hair loss due to illnesses, hereditary or genetic hair loss, or simply for people with thin or light-colored eyebrows to thicken or darken them"</p>
@@ -70,19 +71,37 @@ export default class Blog extends React.Component {
                             <img className="blog-image" src={`${IMG_BASE_URL}/assets/img/skin.png`} />
 
                             <p>Microblading works by <a style={{textDecoration: 'none'}} href="http://usamicroblading.com/microblading-technique/">manually</a> depositing pigment under the first layer of the skin (the epidermis) around the eyebrow using a pen-like blade. The pen makes small incisions in the skin and leaves the ink behind in natural, hair-like strokes. The ink is usually <a style={{textDecoration: 'none'}} href="http://usamicroblading.com/microblading-versus-eyebrow-tattooing/">thicker</a> than traditional tattoo pigment and is <a style={{textDecoration: 'none'}} href="http://www.foxnews.com/health/2017/03/02/what-need-to-know-about-micro-blading-and-semi-permanent-makeup.html">mineral</a> based, meaning it will fade over time.</p>
+                            <div className="row">
+                                <div className="col-xs-12 col-md-6">
+                                    <InstagramEmbed url='https://www.instagram.com/p/BTGjAKBg3bx/' hideCaption={true} />
+                                </div>
+                                <div className="col-xs-12 col-md-6">
+                                    <InstagramEmbed url='https://www.instagram.com/p/BTGeCWoBpM6/' hideCaption={true} />
+                                </div>
+                            </div>
 
                             <h2 className="blog-h2">IT'S ONLY SEMI-PERMANENT</h2>
 
                             <p>If you’re thinking about doing microblading, consider <b>it’s a multistep process and won’t last forever</b>. Depending on the quality of your stylist and the way you care for the ink after the process is over, microblading can last anywhere from <a style={{textDecoration: 'none'}} href="https://permanentmakeupcornwall.com/faqs-microblading">12 to 18 months</a> between touch-ups. As well, half or more of the ink may <a style={{textDecoration: 'none'}} href="http://info.gotbeauty.com/blog/all-the-microblading-information-youll-ever-need%20">fade</a> after the initial process based on your skin type, so plan for a follow-up appointment and monitor the healing process to see how long microblading may last for you. If you don’t like the way it turns out, the color will fade over time – leaving just your natural brows behind.</p>
 
+                            <div className="row">
+                                <div className="col-xs-12 col-md-6">
+                                    <InstagramEmbed url='https://www.instagram.com/p/BSkEibql7p6/' hideCaption={true} />
+                                </div>
+                                <div className="col-xs-12 col-md-6">
+                                    <InstagramEmbed url='https://www.instagram.com/p/BSkEzQaBZVH/' hideCaption={true} />
+                                </div>
+                            </div>
+
                             <h2 className="blog-h2">IT CAN MAKE YOUR BROWS EFFORTLESSLY FIERCE</h2>
+
                             <p>Celebrities like <a style={{textDecoration: 'none'}} href="http://www.vogue.com/article/lena-dunham-microblading-tattoo-eyebrows-permanent-makeup">Lena Dunham</a> and <a style={{textDecoration: 'none'}} href="http://www.vogue.com/article/lena-dunham-microblading-tattoo-eyebrows-permanent-makeup">Bella Thorne</a> swear by the process, and research shows our brows aren’t just a fashion fad – they’re our <a style={{textDecoration: 'none'}} href="http://www.harpersbazaar.com/beauty/makeup/a11934/eyebrows-are-most-important-facial-feature/">most important</a> facial feature. So where does microblading fit into all of this?</p>
 
                             <p>A <a style={{textDecoration: 'none'}} href="http://www.cosmopolitan.com/style-beauty/beauty/a3884218/eyebrow-microblading-semi-permanent-tattoos/">breakdown</a> of the process shows how flawless brows can be yours in just about <a style={{textDecoration: 'none'}} href="http://www.cosmopolitan.com/style-beauty/beauty/a3884218/eyebrow-microblading-semi-permanent-tattoos/">an hour or two</a>. Once you’ve selected a salon or esthetician, talk to them about what you want. <b>Show them pictures of famous eyebrows you might have your heart set on and work with them to create the perfect shape for your existing brows and face</b>. After you’ve settled on a style and have drawn it out, he or she will mix up the perfect color to make sure the ink matches your natural hair color as closely as possible.</p>
 
                             <div className="row">
                                 <div className="col-xs-12 col-md-6">
-                                    <InstagramEmbed url='https://www.instagram.com/p/BTPbwunhK1F/' hideCaption={true} />
+                                    <InstagramEmbed url='https://www.instagram.com/p/BUIud8nB2K1/' hideCaption={true} />
                                 </div>
                                 <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                     <p>"It's different for everyone and depends on pain tolerance. Some people say it feels like their eyebrows are being squeezed or plucked. For others it's somewhat more painful."</p>
@@ -98,6 +117,15 @@ export default class Blog extends React.Component {
                                 </div>
                                 <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                     <p>Aftercare is crucial to making sure everything heals the way it’s supposed to and that nothing gets infected. Antibiotic ointment for the first 24 hours and then a <a style={{textDecoration: 'none'}} href="https://zensaskincare.com/shop/zensa-healing-cream-60ml">natural</a> healing gel for at least a week afterward will help keep the area clean, and the ink stays its true color for as long as possible before your next touch-up.</p>
+                                </div>
+                            </div>
+
+                            <div className="row">
+                                <div className="col-xs-12 col-md-6">
+                                    <InstagramEmbed url='https://www.instagram.com/p/BSkJFq0BNoV/' hideCaption={true} />
+                                </div>
+                                <div className="col-xs-12 col-md-6">
+                                    <InstagramEmbed url='https://www.instagram.com/p/BSlrIKiDSzO/' hideCaption={true} />
                                 </div>
                             </div>
 
