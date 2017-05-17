@@ -209,7 +209,7 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                <p>Take a look at the Line Work of this piece and the use of geometric patterns and tiny dots. This shop specializes in black and gray tattoos and has several artists on hand. If you book time with the owner, Mark Mahoney – who has been tattooing since the <a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="http://shamrocksocialclub.com/history.html" target="_blank">1970s</a> – expect to pay more than with any other artist <a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="http://shamrocksocialclub.com/" target="_blank">at the shop</a>.</p>
+                                <p>Take a look at the line work of this piece and the use of geometric patterns and tiny dots. This shop specializes in black and gray tattoos and has several artists on hand. If you book time with the owner, Mark Mahoney – who has been tattooing since the <a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="http://shamrocksocialclub.com/history.html" target="_blank">1970s</a> – expect to pay more than with any other artist <a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="http://shamrocksocialclub.com/" target="_blank">at the shop</a>.</p>
 
                                 <h2 className="blog-h2">NEW YORK CITY: EAST RIVER TATTOO</h2>
 
@@ -235,7 +235,7 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                <p>When you’re looking for color and potential pop culture elements, you want to see how close or far away from the design the artist may get. Josh Herman offers bold colors but keeps the details intact with strong Line Work.</p>
+                                <p>When you’re looking for color and potential pop culture elements, you want to see how close or far away from the design the artist may get. Josh Herman offers bold colors but keeps the details intact with strong line work.</p>
 
                                 <h2 className="blog-h2">SOUTH FLORIDA: NO HARD FEELINGS</h2>
 
