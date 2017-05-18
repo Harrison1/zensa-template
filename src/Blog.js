@@ -63,7 +63,7 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BS3O8EzAMCl/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6">
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
                                         <p><i>"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem voluptatem autem, est at. Eum repudiandae, harum vel necessitatibus, ab nisi pariatur dolorem voluptate nulla, perspiciatis molestiae repellat, aspernatur reiciendis doloribus." <a href="https://www.instagram.com/e_victoria/" target="_blank" rel="noopener noreferrer" alt=""> @e_victoria</a></i></p>
                                     </div>
                                 </div>
