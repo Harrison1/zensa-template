@@ -2,10 +2,10 @@
 
 I used [create-react-app](https://github.com/facebookincubator/create-react-app) to spin up the react app.
 
-I installed the instagram embed component 
+I installed the instagram embed component and their preffered document meta module
 
 ```
-npm i -S react-instagram-embed
+npm i -S react-instagram-embed react-document-meta
 ```
 
 I copied over all their css.
