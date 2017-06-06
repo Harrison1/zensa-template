@@ -157,10 +157,10 @@ export default class Blog extends React.Component {
 
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BOHzYkZh9m6/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BTq5MjgASVI/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
-                                        <p><i>"Ask [the artist] any concerns you have about getting tattooed. Whether it’s pain, pricing, or if they do a particular style. A good artist will be upfront with you and ensure you have the best experience." <a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="https://www.instagram.com/e_victoria/?hl=en" target="_blank">@e_victoria</a></i></p>
+                                        <p><i>"It’s helpful to know what they charge, and if it’s in your budget. If not, you need to save money, or have a design drawn to fit your budget." <a style={{textDecoration: 'none'}} rel="noopener noreferrer" alt="" href="https://www.instagram.com/meghanschader/?hl=en" target="_blank">meghanschader</a></i></p>
                                     </div>
                                 </div>
 
@@ -244,7 +244,7 @@ export default class Blog extends React.Component {
                                         <InstagramEmbed url='https://www.instagram.com/p/BFZdPCUoSTO/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BSd08V7FAlB/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BFX4AopEzVs/' hideCaption={true} />
                                     </div>
                                 </div>
 
