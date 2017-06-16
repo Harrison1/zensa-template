@@ -27,9 +27,9 @@ export default class Blog extends React.Component {
         return (
 
                 <div className="blog">
-                    <DocumentMeta {...meta} />
+                <DocumentMeta {...meta} />
 
-              {/* headline */}
+                    {/* headline */}
                     <div className="container">
                         <div className="row center-xs">
                             <div className="col-xs-12 col-md-10">
@@ -51,7 +51,7 @@ export default class Blog extends React.Component {
 
                                 {/* main content */}
 
-                                <p>Here’s why you want to make sure you have a great tattoo aftercare regimen in place: When it’s healing, a tattoo is an open wound on the surface of your skin. As the pistons fire behind the tattoo gun, they puncture your skin again and again to leave a permanent mark behind. Failure to ensure it is regularly cleaned and cared for in the hours and days afterward can lead to skin infections.</p>
+                                <p>Here’s why you want to make sure you have a great tattoo aftercare regimen in place: When it’s healing, a tattoo is an open wound on the surface of your skin. <a style={{textDecoration: 'none'}} href="https://www.washingtonpost.com/news/speaking-of-science/wp/2014/09/24/watching-a-tattoo-needle-in-slow-motion-reveals-the-physics-of-getting-inked/?utm_term=.daadb9e22daf" target="_blank" rel="noopener noreferrer" >As the pistons fire behind the tattoo gun, they puncture your skin again</a> and again to leave a permanent mark behind. Failure to ensure it is regularly cleaned and cared for in the hours and days afterward can lead to <a style={{textDecoration: 'none'}} href="http://www.huffingtonpost.com/entry/better-instructions-for-tattoo-care-could-prevent-infections-doctors-say_us_563d36b6e4b0411d307134fe" target="_blank" rel="noopener noreferrer" >skin infections</a>.</p>
 
                                 {/* column conent */}
                                 <div className="row">
@@ -63,7 +63,7 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                <p><i>"The advice I give to my clients is to leave their bandages on for at least 2-4 hours. The bandage is there to protect your tattoo from airborne bacteria, which can penetrate through broken skin. But I highly recommend following your tattoo artist's advice."</i> – Lauren Margo, tattoo artist</p>
+                                <p><i>"The advice I give to my clients is to leave their bandages on for at least 2-4 hours. The bandage is there to protect your tattoo from airborne bacteria, which can penetrate through broken skin. But I highly recommend following your tattoo artist's advice."</i> – <a style={{textDecoration: 'none'}} href="http://www.ohlaurentattoos.com/" target="_blank" rel="noopener noreferrer" >Lauren Margo</a>, tattoo artist</p>
 
                                 <p><b>These are the four most important steps to ensure you don’t become an unfortunate statistic after neglecting your brand new tattoo.</b></p>
 
@@ -73,7 +73,7 @@ export default class Blog extends React.Component {
                                 {/* image example */}
                                 <img className="blog-image" src={`${IMG_BASE_URL}/assets/img/tattoo_care_searches.png`} />
 
-                                <p>As of 2015, only seven states had laws on the books requiring tattoo artists to be licensed and prescribe an aftercare strategy for their clients approved by state health officials. This means that while you may get aftercare instructions, you can’t always trust they’re medically sound. It could just be what other tattoo artists have told your artist about their clients. Informing yourself on the steps beforehand is critical. Tattoo care searches online were highest in Los Angeles, Atlanta, Seattle, and Charlotte – all states that didn’t have laws in 2015 requiring their tattoo artists to have a license before recommending how to properly care for your new ink after the fact.</p>
+                                <p>As of 2015, only <a style={{textDecoration: 'none'}} href="http://www.huffingtonpost.com/entry/better-instructions-for-tattoo-care-could-prevent-infections-doctors-say_us_563d36b6e4b0411d307134fe" target="_blank" rel="noopener noreferrer" >seven states</a> had laws on the books requiring tattoo artists to be licensed and prescribe an aftercare strategy for their clients approved by state health officials. This means that while you may get aftercare instructions, you can’t always trust they’re medically sound. It could just be what other tattoo artists have told your artist about their clients. Informing yourself on the steps beforehand is critical. Tattoo care searches online were highest in Los Angeles, Atlanta, Seattle, and Charlotte – all states that didn’t have laws in 2015 requiring their tattoo artists to have a license before recommending how to properly care for your new ink after the fact.</p>
 
                                 <p>We recommend researching the laws of your state before getting a new tattoo in order to understand how truly qualified your tattoo artist is to be giving you advice on treatment and care.</p>
 
@@ -90,9 +90,9 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                <p>At least early on, you’ll want to make sure your tattoo is covered. Remember: As fun as your final design choice is – leprechaun to lemur – tattoos are open wounds and in need of TLC. Clean the area with light soap (without fragrance) and water, and apply a healing ointment like Zensa's Healing Cream before bandaging it. This will protect the area from being exposed to the elements. How often you wrap it really depends on the size of the tattoo – usually you’ll want to ensure it’s wrapped while you sleep for the first three nights.</p>
+                                <p>At least early on, you’ll want to make sure your tattoo is covered. Remember: As fun as your final design choice is – leprechaun to lemur – tattoos are open wounds and in need of TLC. Clean the area with light soap (without fragrance) and water, and apply a healing ointment like <a style={{textDecoration: 'none'}} href="https://zensaskincare.com/shop/zensa-healing-cream-60ml" target="_blank" rel="noopener noreferrer" >Zensa's Healing Cream</a> before bandaging it. This will protect the area from being exposed to the elements. How often you wrap it really depends on the size of the tattoo – usually you’ll want to ensure it’s wrapped while you sleep for the <a style={{textDecoration: 'none'}} href="http://www.inkedmag.com/inked-answers-dry-healing-vs-wrap-healing-new-tattoo/" target="_blank" rel="noopener noreferrer" >first three nights</a>.</p>
 
-                                <p><i>"Work closely with your artist – it doesn’t get too much closer than permanently transforming your skin, now does it? – to achieve the best possible design, placement, execution, and healing. You may start one healing method and need to switch." </i> – J. Michael Taylor, owner of Black Amethyst Tattoo Gallery</p>
+                                <p><i>"Work closely with your artist – it doesn’t get too much closer than permanently transforming your skin, now does it? – to achieve the best possible design, placement, execution, and healing. You may start one healing method and need to switch." </i> – J. Michael Taylor, owner of <a style={{textDecoration: 'none'}} href="http://stpetetattoo.org/" target="_blank" rel="noopener noreferrer" >Black Amethyst Tattoo Gallery</a></p>
 
                                 {/* section title */}
                                 <h2 className="blog-h2">3. Unwrap and Assess</h2>
@@ -107,7 +107,7 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                <p>You’ll want to get into the routine of changing bandages, dousing the tattoo with a light combination of soap and water, applying healing cream, and then rewrapping the tattoo on the schedule recommended by your tattoo artist. If there is any unexplained redness or irritation, you should immediately contact a dermatologist or medical professional.</p>
+                                <p>You’ll want to get into the <a style={{textDecoration: 'none'}} href="http://www.inkedmag.com/inked-answers-dry-healing-vs-wrap-healing-new-tattoo/" target="_blank" rel="noopener noreferrer" >routine</a> of changing bandages, dousing the tattoo with a light combination of soap and water, applying healing cream, and then rewrapping the tattoo on the schedule recommended by your tattoo artist. If there is any unexplained redness or irritation, you should immediately contact a dermatologist or medical professional.</p>
 
                                 {/* section title */}
                                 <h2 className="blog-h2">4. Repeat Until Healed</h2>
@@ -117,10 +117,9 @@ export default class Blog extends React.Component {
 
                                 <p>It can take more than two weeks for a tattoo to heal fully depending on the size of the piece. You’ll want to continue following your aftercare strategy – unwrap, assess, rinse with soap and water, pat dry, apply Zensa Healing Cream, and bandage – until it’s 100 percent healed.</p>
 
-                                <p><i>"A super solid and well-saturated tattoo can take up to four days or four weeks to heal."</i> – Lauren Margo, tattoo artist</p>
+                                <p><i>"A super solid and well-saturated tattoo can take up to four days or four weeks to heal."</i> – <a style={{textDecoration: 'none'}} href="http://www.ohlaurentattoos.com/" target="_blank" rel="noopener noreferrer" >Lauren Margo</a>, tattoo artist</p>
 
-                                <p>In addition to following these steps, there are also some important don’ts. Don’t: scratch or pick at your tattoo, submerge it in water, or expose it to direct sunlight. Just make sure not to plan any days at the beach or pool right after a getting a tattoo, and you’ll be in good shape!</p>
-
+                                <p>In addition to following these steps, there are also some important don’ts. Don’t: <a style={{textDecoration: 'none'}} href="http://www.inkedmag.com/inked-answers-dry-healing-vs-wrap-healing-new-tattoo/" target="_blank" rel="noopener noreferrer" >scratch or pick at your tattoo, submerge it in water, or expose it to direct sunlight</a>. Just make sure not to plan any days at the beach or pool right after a getting a tattoo, and you’ll be in good shape!</p>
                                 {/* section title */}
                                 <h2 className="blog-h2">Superhuman Healing Doesn’t Exist</h2>
 
@@ -134,7 +133,7 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                <p>Everyone needs time for his or her new ink to heal, and whether it’s your 10th tattoo or your 100th, you are no exception to this rule. Take care of your tattoo in those first crucial days to make sure you can enjoy your new piece forever. This includes making sure you use quality items to aid in the process, such as Zensa's Healing Cream. Your body takes care of most of the action on its own, but this will help push your recovery past the finish line.</p>
+                                <p>Everyone needs time for his or her new ink to heal, and whether it’s your 10th tattoo or your 100th, you are no exception to this rule. Take care of your tattoo in those first crucial days to make sure you can enjoy your new piece forever. This includes making sure you use quality items to aid in the process, such as <a style={{textDecoration: 'none'}} href="https://zensaskincare.com/shop/zensa-healing-cream-60ml" target="_blank" rel="noopener noreferrer" >Zensa's Healing Cream</a>. Your body takes care of most of the action on its own, but this will help push your recovery past the finish line.</p>
 
                                 {/* end: main content */}
 
