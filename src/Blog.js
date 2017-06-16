@@ -64,12 +64,12 @@ export default class Blog extends React.Component {
                                 {/* section title */}
                                 <h2 className="blog-h2">How Does Tattoo Removal Work?</h2>
 
-                                <p><i>"Lasers remove tattoos by breaking up the pigment colors with a high-intensity light beam. Black tattoo pigment absorbs all laser wavelengths, making it the easiest color to treat. Depending on how much pigment you are trying to break up and ‘remove’ will determine how many number of sessions or procedures you will need to have."</i> – Lauren Margo, tattoo artist</p>
+                                <p><i>"Lasers remove tattoos by breaking up the pigment colors with a high-intensity light beam. Black tattoo pigment absorbs all laser wavelengths, making it the easiest color to treat. Depending on how much pigment you are trying to break up and ‘remove’ will determine how many number of sessions or procedures you will need to have."</i> – <a style={{textDecoration: 'none'}} href="http://www.ohlaurentattoos.com/" target="_blank" rel="noopener noreferrer">Lauren Margo</a>, tattoo artist</p>
 
                                 {/* image example */}
                                 <img className="blog-image" src={`${IMG_BASE_URL}/assets/img/asset1.png`} />
 
-                                <p>While tattoo removal technology has evolved, the most common type of tattoo removal utilizes laser technology. These lasers use focused beams of quickly pulsating light to break down tiny ink particles in your tattoo. Previous generations of laser therapy technology (referred to as Q-switched lasers) operate at a rate of five to 10 pulses each nanosecond – sometimes going as fast as 50 pulses each nanosecond, depending on the laser. Today, laser pulsations are measured in picoseconds, which are 1,000 times faster than their predecessors and can help eliminate your tattoo in one to three sessions.</p>
+                                <p>While tattoo removal technology has <a style={{textDecoration: 'none'}} href="http://www.tattoohealth.org/content/tattoo-removal-basics/tattoo-removal-history" target="_blank" rel="noopener noreferrer">evolved</a>, the most common type of tattoo removal utilizes laser technology. These lasers use focused beams of quickly pulsating light to break down tiny ink particles in your tattoo. Previous generations of laser therapy technology (referred to as Q-switched lasers) operate at a rate of five to 10 pulses each <a style={{textDecoration: 'none'}} href="http://dermatologytimes.modernmedicine.com/dermatology-times/news/laser-tattoo-removal-rethinking-ink?page=full" target="_blank" rel="noopener noreferrer">nanosecond</a> – sometimes going as fast as 50 pulses each nanosecond, depending on the laser. Today, laser pulsations are measured in picoseconds, which are 1,000 times <a style={{textDecoration: 'none'}} href="http://www.deleteitnow.com/picoway-vs-q-switched-lasers-for-tattoo-removal/" target="_blank" rel="noopener noreferrer">faster</a> than their predecessors and can help eliminate your tattoo in one to three sessions.</p>
 
                                 {/* column conent */}
                                 <div className="row">
@@ -77,11 +77,11 @@ export default class Blog extends React.Component {
                                         <InstagramEmbed url='https://www.instagram.com/p/BTFK7KoAvch/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6" style={{margin: "auto"}}>
-                                        <p><i>"Picosecond pulses are more efficient than nanosecond pulses..." </i></p>
+                                        <p><i><a style={{textDecoration: 'none'}} href="https://www.ncbi.nlm.nih.gov/pubmed/9487208" target="_blank" rel="noopener noreferrer">"Picosecond pulses are more efficient than nanosecond pulses..."</a></i></p>
                                     </div>
                                 </div>
 
-                                <p>The most common picosecond lasers are the PicoWay and PicoSure. The PicoSure may have come first, but it’s still a champ for breaking down blue and green inks. The PicoWay – a newer iteration of picosecond technology – works great with all skin types and is extremely efficient at removing red and black inks. All three versions of laser tattoo removal are available today, and the one you choose may be contingent upon the tattoo you’re looking to have removed and how much you’re willing to pay.</p>
+                                <p>The most common picosecond lasers are the PicoWay and PicoSure. The <a style={{textDecoration: 'none'}} href="http://dermatologytimes.modernmedicine.com/dermatology-times/news/laser-tattoo-removal-rethinking-ink?page=full" target="_blank" rel="noopener noreferrer">PicoSure</a> may have come first, but it’s still a champ for breaking down blue and green inks. The PicoWay – a newer iteration of picosecond technology – works great with all skin types and is extremely efficient at removing red and black inks. All three versions of laser tattoo removal are available today, and the one you choose may be contingent upon the tattoo you’re looking to have removed and how much you’re willing to pay.</p>
 
                                 {/* section title */}
                                 <h2 className="blog-h2">How Long Does Laser Tattoo Removal Take?</h2>
@@ -96,12 +96,12 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                <p>No matter which laser technology you use, tattoo removal takes time. The process is gradual, and your body will need time between sessions to recuperate. Depending on the quality and size of your tattoo, experts estimate tattoo removal using picosecond lasers can be done in two to six treatments, where Q-switched laser removal may take eight to 12 treatments.</p>
+                                <p>No matter which laser technology you use, tattoo removal takes time. The process is gradual, and your body will need time between sessions to recuperate. Depending on the quality and size of your tattoo, experts <a style={{textDecoration: 'none'}} href="http://www.deleteitnow.com/tattoo-removal/number-of-treatments/" target="_blank" rel="noopener noreferrer">estimate</a> tattoo removal using picosecond lasers can be done in two to six treatments, where Q-switched laser removal may take eight to 12 treatments.</p>
 
                                 {/* section title */}
                                 <h2 className="blog-h2">Will My Tattoo Really Be Gone?</h2>
 
-                                <p><i>"I would recommend either laser tattoo removal, or a professional cover-up tattoo. Laser removal takes multiple sessions and is typically more painful than getting tattooed."</i> – Kate Hartley, marketing manager for Tyson Weed Tattoo </p>
+                                <p><i>"I would recommend either laser tattoo removal, or a professional cover-up tattoo. Laser removal takes multiple sessions and is typically more painful than getting tattooed."</i> – Kate Hartley, marketing manager for <a style={{textDecoration: 'none'}} href="http://www.divinitytattoo.com/tyson/" target="_blank" rel="noopener noreferrer">Tyson Weed Tattoo</a></p>
 
                                 {/* column conent */}
                                 <div className="row">
@@ -113,7 +113,7 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                <p>It depends. Our tattoos and bodies are unique, and how well they respond to laser therapy removal can vary. The American Society for Dermatologic Surgery (ASDS) states that skin discoloration and a complete lack of pigment removal are possible risks with any of these procedures, so temper your expectations before the process begins.</p>
+                                <p>It depends. Our tattoos and bodies are unique, and how well they respond to laser therapy removal can vary. The American Society for Dermatologic Surgery (ASDS) states that <a style={{textDecoration: 'none'}} href="https://www.asds.net/Laser-Therapy-for-Unwanted-Tattoos/" target="_blank" rel="noopener noreferrer">skin discoloration</a> and a complete lack of pigment removal are possible risks with any of these procedures, so temper your expectations before the process begins.</p>
 
                                 {/* section title */}
                                 <h2 className="blog-h2">Will There Be Scarring?</h2>
@@ -123,33 +123,33 @@ export default class Blog extends React.Component {
                                          <InstagramEmbed url='https://www.instagram.com/p/BSUEPZ9gHbh/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6" style={{margin: "auto"}}>
-                                        <p>It’s possible but unlikely. The ASDS suggests scarring is a potential side effect, and online reviews of the procedures have found that scarring is entirely possible. You should always ask to see doctors’ before-and-after photos of tattoo removal before agreeing to utilize their services, and study online reviews to understand the quality of their work.</p>
+                                        <p>It’s possible but unlikely. The ASDS suggests scarring is a potential side effect, and online <a style={{textDecoration: 'none'}} href="https://www.realself.com/review/sao-paulo-tattoo-removal-bad-results" target="_blank" rel="noopener noreferrer">reviews</a> of the procedures have found that scarring is entirely possible. You should always ask to see doctors’ before-and-after photos of tattoo removal before agreeing to utilize their services, and study online reviews to understand the quality of their work.</p>
                                     </div>
                                 </div>
 
                                 {/* section title */}
                                 <h2 className="blog-h2">Does It Hurt?</h2>
                                 
-                                <p>Your mileage may vary on this one, but those who have had it done say it hurt worse than getting the tattoo. The good news is you can use numbing cream to help take the edge off during the removal process.</p>
-                                
+                                <p>Your mileage may vary on this one, but those who have <a style={{textDecoration: 'none'}} href="https://www.realself.com/forum/laser-tattoo-removal-painful1" target="_blank" rel="noopener noreferrer">had it done</a> say it hurt worse than getting the tattoo. The good news is you can use <a style={{textDecoration: 'none'}} href="https://zensaskincare.com/tattoo-numbing-cream?utm_source=facebook&utm_campaign=FEMA-C1-PAIN-OFFA&utm_medium=cpc&utm_term=PAIN-OFFA-2+-+Image+2&utm_content=Tattoo:+like+drawing+on+your+arm+or+cat+claw+scratch%3F" target="_blank" rel="noopener noreferrer">numbing cream</a> to help take the edge off during the removal process.</p>
+            
                                 {/* section title */}
                                 <h2 className="blog-h2">How Much Does Tattoo Removal Cost?</h2>
 
                                 <p>The answer here is also contingent on the kind of tattoo you’re looking to zap away, as well as the type of laser therapy you’ve decided to use.</p>
 
-                                <p>Q-switched laser treatments can cost anywhere from $50 to $800 a session, and picosecond laser sessions can range anywhere from $200 to $2,000 a pop.</p>
+                                <p>Q-switched laser treatments can cost anywhere from $50 to $800 a session, and picosecond laser sessions can range anywhere from <a style={{textDecoration: 'none'}} href="http://tataway.com/tattoo-removal-cost/" target="_blank" rel="noopener noreferrer">$200 to $2,000</a> a pop.</p>
 
                                 {/* section title */}
                                 <h2 className="blog-h2">Do I Have Any Other Options?</h2>
 
-                                <p>The future is bright when it comes to alternatives to laser removal. Tattoo removal creams may sound too good to be true, but at least one Canadian student thinks he’s onto something with his recent invention – which he just happened to sell to a pharmaceutical company specializing in dermatology for an undisclosed load of cash.</p>
+                                <p>The future is bright when it comes to alternatives to laser removal. Tattoo removal <a style={{textDecoration: 'none'}} href="https://www.inverse.com/article/15202-the-science-of-tattoo-removal-cream-just-left-the-world-of-wishful-thinking" target="_blank" rel="noopener noreferrer">creams</a> may sound too good to be true, but at least one Canadian student thinks he’s onto something with his recent invention – which he just happened to sell to a pharmaceutical company specializing in dermatology for an undisclosed load of cash.</p>
 
-                                <p>Presently, a Perfluorodecalin patch (or PFD for short) can even let you go through multiple passings of the laser in one sitting with positive results. And, of course, you can always cover up an old tattoo with a new one if you’re looking to change it up but don’t have the cash or the time for laser therapy.</p>
+                                <p>Presently, a Perfluorodecalin patch (or <a style={{textDecoration: 'none'}} href="http://www.mdedge.com/edermatologynews/article/135138/aesthetic-dermatology/perfluorodecalin-spiked-patch-improves-tattoo" target="_blank" rel="noopener noreferrer">PFD</a> for short) can even let you go through multiple passings of the laser in one sitting with <a style={{textDecoration: 'none'}} href="https://www.realself.com/question/seattle-wa-pfd-patch-laser-tattoo-removal-added-benefit" target="_blank" rel="noopener noreferrer">positive</a> results. And, of course, you can always cover up an old tattoo with a new one if you’re looking to change it up but don’t have the cash or the time for laser therapy.</p>
 
                                 {/* section title */}
                                 <h2 className="blog-h2">Making the Best of Today’s Choices</h2>
 
-                                <p><i>"Being in the business of removing tattoos, we have found laser tattoo removal the most effective. Whilst the process takes time, we have found when applied by an experienced and qualified clinician, the results are excellent with complete removals possible without scarring or residual skin damage."</i> – Peter Poulos, director of Disappear Ink Tattoo Removal Clinic</p>
+                                <p><i>"Being in the business of removing tattoos, we have found laser tattoo removal the most effective. Whilst the process takes time, we have found when applied by an experienced and qualified clinician, the results are excellent with complete removals possible without scarring or residual skin damage."</i> – Peter Poulos, director of <a style={{textDecoration: 'none'}} href="https://www.disappearink.com.au/" target="_blank" rel="noopener noreferrer">Disappear Ink Tattoo Removal Clinic</a></p>
 
                                 {/* column conent */}
                                 <div className="row">
@@ -161,7 +161,7 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                <p>If you’re looking to have a tattoo removed today, these are your options. Laser therapy has come a long way, and you now have a choice of what works best depending on the size and color of your tattoo. Laser treatment isn’t cheap, however, but you can choose to use a slower laser option to save money. If you’re concerned about the pain, <b>make sure you bring Zensa's Numbing Cream with you before you go.</b> Our all-natural product won’t interfere with the laser removal procedure, and while it can’t numb the pain when it comes to the cost of the treatment, it can help dull the pain of those pulsating lasers.</p>
+                                <p>If you’re looking to have a tattoo removed today, these are your options. Laser therapy has come a long way, and you now have a choice of what works best depending on the size and color of your tattoo. Laser treatment isn’t cheap, however, but you can choose to use a slower laser option to save money. If you’re concerned about the pain, <b>make sure you bring <a style={{textDecoration: 'none'}} href="https://zensaskincare.com/shop/zensa-numbing-cream-30g" target="_blank" rel="noopener noreferrer">Zensa's Numbing Cream</a> with you before you go.</b> Our all-natural product won’t interfere with the laser removal procedure, and while it can’t numb the pain when it comes to the cost of the treatment, it can help dull the pain of those pulsating lasers.</p>
 
                                 {/* end: main content */}
 
