@@ -33,7 +33,7 @@ export default class Blog extends React.Component {
                     <div className="container">
                         <div className="row center-xs">
                             <div className="col-xs-12 col-md-10">
-                                <h1 className="blog-h1">Tattoo Care Tips: What to Do With Your New Tattoo</h1>
+                                <h1 className="blog-h1">Tattoo Care Tips:<br/>What to Do With Your New Tattoo</h1>
                                 <h2 className="blog-h2">Everything You Need to Know About the Healing Process of Your Next Tattoo</h2>
                             </div>        
                         </div>
