@@ -30,7 +30,7 @@ export default class Blog extends React.Component {
                     <DocumentMeta {...meta} />
 
                    {/* headline */}
-                    <div className="container">
+                            <div className="container">
                         <div className="row center-xs">
                             <div className="col-xs-12 col-md-10">
                                 <h1 className="blog-h1">The Ultimate Guide to Numbing Cream</h1>
@@ -53,8 +53,6 @@ export default class Blog extends React.Component {
 
                                 <p>While “no pain, no gain” sometimes makes sense, it doesn’t have to be that way when it comes to your skin. Whether you’re looking for your first or 50th tattoo or are contemplating laser hair removal or waxing, you and your precious skin don’t have to suffer. Numbing creams are the best options in taking away the sting of any procedure.</p>
 
-                                <p><i>"... Lidocaine temporarily deadens the nerves in the area it is applied. But keep in mind that it will be working at its best once your skin has already been broken open during the tattoo procedure."</i> - <a style={{textDecoration: 'none'}} href="http://www.ohlaurentattoos.com/" target="_blank" rel="noopener noreferrer">Lauren Margo</a>, tattoo artist</p>
-
                                 <p>How do they work, and how should you approach taking care of your skin after getting a tattoo? Here are the most important things you need to know about numbing cream in our ultimate guide.</p>
 
                                 {/* section title */}
@@ -62,7 +60,6 @@ export default class Blog extends React.Component {
 
                                 {/* image example */}
                                 <img className="blog-image" src={`${IMG_BASE_URL}/assets/img/Asset-1.png`} alt="Questions About Tattoo Pain" />
-
 
                                 <p>Pain is a concern for many when it comes to getting a tattoo. There are over 9,500 threads on Yahoo! Answers of individuals asking about the pain related to tattoos in different locations across the body. Almost 3,400 were asking about the pain of a back tattoo, significantly more than those inquiring about the pain of arm or wrist tattoos. Thankfully, for all those wondering about the pain associated with getting a tattoo on any of these body parts, there is an answer: numbing cream.</p>
 
@@ -81,8 +78,15 @@ export default class Blog extends React.Component {
                                     </div>
                                 </div>
 
-                                {/* image example */}
-                                <img className="blog-image" src={`${IMG_BASE_URL}/assets/img/Asset-2.png`} alt="Zensa Numbing Cream" />
+                                {/* column conent */}
+                                <div className="row">
+                                    <div className="col-xs-12 col-md-6">
+                                        <InstagramEmbed url='https://www.instagram.com/p/BRmYAzOjDMb/' hideCaption={true} />
+                                    </div>
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
+                                        <p><i>" ... Lidocaine temporarily deadens the nerves in the area it is applied. But keep in mind that it will be working at its best once your skin has already been broken open during the tattoo procedure."</i> - <a style={{textDecoration: 'none'}} href="http://www.ohlaurentattoos.com/" target="_blank" rel="noopener noreferrer">Lauren Margo</a>, tattoo artist</p>
+                                    </div>
+                                </div>
 
                                 <p>After application, it’ll take around 15-40 minutes for the cream to be absorbed into the skin depending on the type of procedure you’re undertaking. Numbing will then last for two to three hours. There are also creams that are made with all-natural ingredients which help prevent skin complications caused by filler additives.</p>
 
@@ -100,7 +104,7 @@ export default class Blog extends React.Component {
                                         <InstagramEmbed url='https://www.instagram.com/p/BVgFhXdBvsR/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BSmvTsnB7Lg/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BTw1_FMBHOg/' hideCaption={true} />
                                     </div>
                                 </div>
 
@@ -112,11 +116,9 @@ export default class Blog extends React.Component {
 
                                 <p>But don’t just take our word. Here are testimonials of individuals who’ve used numbing creams to make getting a tattoo easier and pain-free.</p>
 
-                                <p><i>"This product works like a charm … I put it on using the plastic wrap a couple hours before my tattoo appointment and I felt absolutely nothing for the first hour."</i> – Stephen P.</p>
+                                <p><i>" … I put it on using the plastic wrap a couple hours before my tattoo appointment and I felt absolutely nothing for the first hour."</i> – Stephen P.</p>
 
-                                <p><i>"I have to say this stuff works great!!"</i> – Jared Egge</p>
-
-                                <p><i>"This worked SO WELL I couldn’t even feel the needle, only the vibration of the machine. Truly amazing! I have already recommended this to people, and have told people I could get my whole body covered in tattoos as long as I have this cream. *I do not leave reviews, but this product truly amazed me!"</i> – Heather A. Melancon</p>
+                                <p><i>"If you are seriously worried about the pain from a new tattoo, there are other methods you can use safety. For instance, numbing cream works wonders for most people. It’s literally magical the way it works."</i><a style={{textDecoration: 'none'}} href="http://nextluxury.com/mens-style-and-fashion/getting-a-tattoo-first-time/" target="_blank" rel="noopener noreferrer"> - nextluxury.com</a></p>
 
                                 {/* section title */}
                                 <h2 className="blog-h2">How Do Tattoo Artists Feel?</h2>
@@ -128,8 +130,8 @@ export default class Blog extends React.Component {
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BEsHGnatqbG/' hideCaption={true} />
                                     </div>
-                                    <div className="col-xs-12 col-md-6" style={{margin: "auto"}}>
-                                        <p><i>"By using Zensa Numbing Cream, we eliminate the worst part of getting a tattoo: the pain. Zensa is a must-have for all of my tattoo procedures because the formula doesn’t affect the ink – the tattoo comes out just as we had envisioned."</i> – Little Linda, tattoo artist</p>
+                                    <div className="col-xs-12 col-md-6" style={{margin: 'auto'}}>
+                                        <p><i>"By using Zensa Numbing Cream, we eliminate the worst part of getting a tattoo: the pain. Zensa is a must-have for all of my tattoo procedures because the formula doesn’t affect the ink – the tattoo comes out just as we had envisioned."</i> – <a style={{textDecoration: 'none'}} href="https://www.instagram.com/littlebabylinda/" target="_blank" rel="noopener noreferrer">Little Linda</a>, tattoo artist</p>
                                     </div>
                                 </div>
 
@@ -139,14 +141,14 @@ export default class Blog extends React.Component {
                                 {/* column conent */}
                                 <div className="row">
                                     <div className="col-xs-12 col-md-6">
-                                        <InstagramEmbed url='https://www.instagram.com/p/BTHWvNHlmsr/' hideCaption={true} />
+                                        <InstagramEmbed url='https://www.instagram.com/p/BVsX38FlVqB/' hideCaption={true} />
                                     </div>
                                     <div className="col-xs-12 col-md-6">
                                         <InstagramEmbed url='https://www.instagram.com/p/BKjIbppDG16/' hideCaption={true} />
                                     </div>
                                 </div>
 
-                                <p><b>It’s up to you:,</b> Would you rather suffer in silence, squirming as the needle digs deeper, or be peacefully lulled into a blissful state by the pressure and absence of pain while getting tattooed? Numbing creams are the best choice around, and there’s none better than <a style={{textDecoration: 'none'}} href="https://zensaskincare.com/shop/zensa-numbing-cream-30g">Zensa’s numbing cream.</a> By utilizing a 5 percent concentration of lidocaine, Zensa’s numbing cream is considered a maximum strength anesthetic and won’t affect the quality of your ink. There’s no better combination for numbing the unnecessary pain caused by your next beautiful masterpiece.</p>
+                                <p><b>It’s up to you:,</b> Would you rather suffer in silence, squirming as the needle digs deeper, or be peacefully lulled into a blissful state by the pressure and absence of pain while getting tattooed? Numbing creams are the best choice around, and there’s none better than <a style={{textDecoration: 'none'}} href="https://zensaskincare.com/shop/zensa-numbing-cream-30g" target="_blank" rel="noopener noreferrer">Zensa’s numbing cream.</a> By utilizing a 5 percent concentration of lidocaine, Zensa’s numbing cream is considered a maximum strength anesthetic and won’t affect the quality of your ink. There’s no better combination for numbing the unnecessary pain caused by your next beautiful masterpiece.</p>
 
                                 {/* end: main content */}
 
